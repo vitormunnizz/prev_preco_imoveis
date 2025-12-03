@@ -32,7 +32,19 @@ Abaixo estão os detalhes das colunas utilizadas no conjunto de dados analisado:
   - NumPy
   - Matplotlib/Seaborn (se aplicável)
   - Scikit-learn (se houver modelagem)
+  
+## 👨‍💻 Autor
 
-### Contato
+**Vitor Hugo Muniz de Sousa Santos**
 
-Para dúvidas ou sugestões, entre em contato pelo e-mail: [vitormunnizz@gmail.com](mailto:vitormunnizz@gmail.com).
+💼 Engenheiro de Computação | Cientista de Dados
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
