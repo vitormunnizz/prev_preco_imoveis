@@ -2,7 +2,7 @@
 
 Este repositório apresenta um projeto de análise de dados imobiliários utilizando Python. O objetivo é explorar, limpar e analisar um conjunto de dados com informações detalhadas sobre propriedades, ajudando a identificar tendências, padrões e insights valiosos. Além disso, o projeto pode incluir modelos preditivos para estimar preços e características relacionadas.
 
-### Descrição das Colunas
+## Descrição das Colunas
 Abaixo estão os detalhes das colunas utilizadas no conjunto de dados analisado:
 
 - Price: Preço final anunciado (em R$, Real Brasileiro).
@@ -16,14 +16,14 @@ Abaixo estão os detalhes das colunas utilizadas no conjunto de dados analisado:
 - Furnished: Valor binário: 1 se o imóvel estiver mobiliado, 0 caso contrário.
 - Swimming Pool: Valor binário: 1 se o imóvel tiver piscina, 0 caso contrário.
 
-### Funcionalidades
+## Funcionalidades
 
 - Importação e limpeza de dados.
 - Análise exploratória de dados.
 - Visualizações interativas.
 - Modelos preditivos (se aplicável).
 
-### Pré-requisitos
+## Pré-requisitos
 
 - Python 3.8 ou superior.
 - Jupyter Notebook.
@@ -33,18 +33,18 @@ Abaixo estão os detalhes das colunas utilizadas no conjunto de dados analisado:
   - Matplotlib/Seaborn (se aplicável)
   - Scikit-learn (se houver modelagem)
   
-## 👨‍💻 Autor
+## Autor
 
 **Vitor Hugo Muniz de Sousa Santos**
 
-💼 Engenheiro de Computação | Cientista de Dados
+Engenheiro de Computação | Cientista de Dados
 
-📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
-🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+[www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License**.
 Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
 
-⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
+**Se este projeto te ajudou, deixe uma estrela no repositório!**
