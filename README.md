@@ -1,4 +1,4 @@
-## Projeto: Análise de Dados de Imóveis
+## Descrição do Projeto
 
 Este repositório apresenta um projeto de análise de dados imobiliários utilizando Python. O objetivo é explorar, limpar e analisar um conjunto de dados com informações detalhadas sobre propriedades, ajudando a identificar tendências, padrões e insights valiosos. Além disso, o projeto pode incluir modelos preditivos para estimar preços e características relacionadas.
 
